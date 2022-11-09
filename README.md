@@ -26,6 +26,6 @@
 I am a Full Stack Developer
 
  <h1>
-  :hammer_and_wrench: Languages and Tools :
+  
 </h1>
- 
+ :hammer_and_wrench: Languages and Tools :
