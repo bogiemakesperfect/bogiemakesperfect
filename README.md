@@ -20,5 +20,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" height="300"/>
 </div>
-👨‍💻 About Me : <br>
+👨‍💻 About Me : <br><br><br>
 I am a Full Stack Developer
