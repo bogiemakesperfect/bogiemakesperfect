@@ -20,9 +20,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" height="300"/>
 </div>
-👨‍💻 About Me : <br><br>
+<h3>
+👨‍💻 About Me :</h3>
+
 I am a Full Stack Developer
-<br>
+
  <h1>
   :hammer_and_wrench: Languages and Tools :
 </h1>
