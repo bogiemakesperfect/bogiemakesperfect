@@ -48,5 +48,5 @@ I am a Full Stack Developer
   
 </h1>
  :fire: My Stats : <br>
- ![trophy](https://github-profile-trophy.vercel.app/?username=bogiemakesperfect&theme=onedark)
+ <a href="https://github-readme-streak-stats.herokuapp.com?user=bogiemakesperfect&theme=dark"></a>                                                                                                                                                 
                                                                                                                                                 
