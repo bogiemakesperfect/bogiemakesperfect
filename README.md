@@ -48,5 +48,6 @@ I am a Full Stack Developer
   
 </h1>
  :fire: My Stats : <br>
- <a href="https://github-readme-streak-stats.herokuapp.com?user=bogiemakesperfect&theme=dark"></a>                                                                                                                                                 
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=bogiemakesperfect&theme=dark" width="200"/>                                                                                                                                                 
+                                                                                                                                               
                                                                                                                                                 
