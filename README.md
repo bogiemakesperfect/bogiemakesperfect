@@ -22,6 +22,8 @@
 </div>
 👨‍💻 About Me : <br><br>
 I am a Full Stack Developer
----
-
- :hammer_and_wrench: Languages and Tools :
+<br>
+ <h1>
+  :hammer_and_wrench: Languages and Tools :
+</h1>
+ 
