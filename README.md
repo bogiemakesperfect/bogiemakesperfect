@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/MTVrODmaZKfhTjUQon" frameBorder="0" class="giphy-embed" width="100" height:"100" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
