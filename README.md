@@ -50,7 +50,7 @@ I am a Full Stack Developer
  :fire: My Stats : <br><br>
                                                                                                                                                   
  <img src="https://github-readme-streak-stats.herokuapp.com?user=bogiemakesperfect&theme=dark" width="600"/>                                                             <img src="https://github-readme-stats.vercel.app/api?username=bogiemakesperfect&show_icons=true&theme=dark" width="600"/>
-                                                                                                          
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" width="600"/>                                                                                                        
                                                                                       
                                                                                                                                                
                                                                                                                                                 
