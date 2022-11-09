@@ -47,4 +47,6 @@ I am a Full Stack Developer
 <h1>
   
 </h1>
- :fire: My Stats :
+ :fire: My Stats : <br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bogiemakesperfect&theme=dark)](https://git.io/streak-stats)
+                                                                                                                                                
