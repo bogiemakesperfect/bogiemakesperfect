@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/bogiedev"><img src="https://api.daily.dev/devcards/d1f6ae52babe421490cc845bdb25c6ca.png?r=o5e" width="400" alt="Bugra Kul's Dev Card"/></a>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MTVrODmaZKfhTjUQon" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MTVrODmaZKfhTjUQon">via GIPHY</a></p>
